@@ -1,5 +1,6 @@
-<span style="font-size:0.5em;"># PatikaWeek2Homework2 
- "while" uygulamasıları
+<span style="font-size:0.5em;"># PatikaWeek2Homework2 \n
+
+ "while" uygulamasıları \n
  1 -> Konsol ekranına 10 kere "Kendime inanıyorum, ben bu yazılım işini hallederim!" yazdırınız.
 
 2 -> 1 ile 20 arasındaki sayıları konsol ekranına yazdırınız.
